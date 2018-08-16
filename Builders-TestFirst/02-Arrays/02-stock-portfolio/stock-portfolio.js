@@ -17,6 +17,8 @@ function totalPortfolioValue(ticker,portfolio){
     return portfolioTotal;
 }
 
+
+
 var ticker = ['ABC', 10, 'XYZ', 200, 'BBB', 5];
 var portfolio = [['XYZ', 20], ['BBB', 10]];
 
