@@ -30,5 +30,5 @@ function myLastIndexOf_solution(arr, searchFor, fromIndex) {
     return -1;
 }
 
-console.log(myLastIndexOf_solution([1,2,3,4,5,6,6,7,8,3,3],6,0));
+console.log(myLastIndexOf_solution([1,2,3,4,5,6,6,7,8,3,3],6,-1));
 console.log(myLastIndexOf([1, 2, 3, 4, 5, 6, 6, 7, 8, 3, 3], 6, -3));
