@@ -15,3 +15,5 @@ function objectifier(arr){
   }
   return obj;
 }
+
+objectifier([["Tony",["mafia"]],["Soprano",["mafia"]]])
